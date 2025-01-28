@@ -1,0 +1,1 @@
+ I strongly encourage you not to copy-paste but to engage with the material and truly understand the concepts. This class offers a fantastic opportunity to build a solid foundation in Machine Learning, and the more effort you put into understanding the topics, the more rewarding your learning experience will be.
